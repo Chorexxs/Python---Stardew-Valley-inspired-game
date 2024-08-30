@@ -4,6 +4,8 @@
 
 Este es un juego de simulación agrícola en el que los jugadores pueden cultivar, cosechar y administrar una pequeña granja.
 
+![alt text](388shots_so.png)
+
 ## Instalación
 
 ### Requisitos Previos
